@@ -21,7 +21,9 @@ Professional Bandicam optimization package designed to maximize FPS, reduce inpu
 
 * `Bandicam Optimized.exe`
 * `README.md`
-* ``
+<p align="center">
+  <img src="Preview.png" width="100%">
+</p>
 
 ---
 
