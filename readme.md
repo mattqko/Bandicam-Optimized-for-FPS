@@ -1,8 +1,12 @@
-# 🎥 Bandicam Optimized for FPS — V1.1 Official Release
+<p align="center">
+  <img src="./Preview.png" alt="Bandicam Optimized for FPS" width="100%">
+</p>
 
-Professional Bandicam optimization package designed to maximize FPS, reduce input latency, and deliver high-quality recordings.
+<h1 align="center">🎥 Bandicam Optimized for FPS</h1>
 
-**Developed independently by Mattqko for Team Gold.**
+<p align="center">
+  High-performance Bandicam optimization package developed solely by <b>Mattqko</b> for <b>Team Gold</b>.
+</p>
 
 ---
 
@@ -19,19 +23,17 @@ Professional Bandicam optimization package designed to maximize FPS, reduce inpu
 
 ## 📦 Included Files
 
-* `Bandicam Optimized.exe`
+* `Bandicam Optimized by Team Gold.exe`
+* `Preview.png`
 * `README.md`
-<p align="center">
-  <img src="Preview.png" width="100%">
-</p>
 
 ---
 
 ## 🛠️ Installation
 
-1. Download `Bandicam Optimized by team gold.exe`.
+1. Download `Bandicam Optimized by Team Gold.exe`.
 2. Run the executable.
-3. Allow the files to auto-extract.
+3. Allow the files to auto-extract automatically.
 4. Open Bandicam.
 5. Start recording using the optimized configuration.
 
@@ -53,11 +55,11 @@ Professional Bandicam optimization package designed to maximize FPS, reduce inpu
 
 ### Original Optimization & Development
 
-* **Mattqko**/**matt** *(sole creator and developer of this optimization package).*
+* **Mattqko / Matt** *(sole creator and developer of this optimization package).*
 
 ### Team
 
-* **Created for Team Gold.**
+* **Created exclusively for Team Gold.**
 
 ---
 
@@ -69,6 +71,6 @@ This project is provided as-is for educational and personal use. Users are respo
 
 ## 📜 Version
 
-**Bandicam Optimized for FPS — V1.1 Official Release**
+**Bandicam Optimized for FPS — Official Release**
 
 Made with dedication for **Team Gold** 🏆
