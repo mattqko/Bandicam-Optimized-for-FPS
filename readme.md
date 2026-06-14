@@ -51,7 +51,7 @@ Professional Bandicam optimization package designed to maximize FPS, reduce inpu
 
 ### Original Optimization & Development
 
-* **Mattqko**/ **matt** *(sole creator and developer of this optimization package).*
+* **Mattqko**/**matt** *(sole creator and developer of this optimization package).*
 
 ### Team
 
